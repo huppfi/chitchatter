@@ -1,7 +1,7 @@
 {
   "name": "chitchatter",
   "version": "0.0.0",
-  "homepage": "https://huppfi.github.io/chitchatter/",
+  "homepage": "https://huppfi.github.io/",
   "author": "Jeremy Kahn <jeremyckahn@gmail.com>",
   "license": "GPL-2.0-or-later",
   "dependencies": {
